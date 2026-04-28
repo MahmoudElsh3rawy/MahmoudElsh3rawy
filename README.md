@@ -1,6 +1,6 @@
 # Hi, I'm Mahmoud Elsharawy 👋
 
-💻 **Full-Stack JavaScript Developer**  
+💻 **Full Stack Developer**  
 I build clean, responsive, and scalable web applications using modern technologies.
 
 ---
@@ -15,28 +15,28 @@ I build clean, responsive, and scalable web applications using modern technologi
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-**Frontend**
-- React.js
-- JavaScript (ES6+)
-- HTML5 & CSS3
-- Bootstrap
+### 🧠 Languages
+JavaScript (ES6+), TypeScript (Basics)
 
-**Backend**
-- Node.js
-- Express.js
+### 🎨 Frontend
+React.js, Redux, HTML5, CSS3, Bootstrap
 
-**Database**
-- MongoDB
-- MySQL
+### 🧩 Backend
+Node.js, Express.js, REST APIs
 
-**Tools**
-- Git & GitHub
-- VS Code
-- Postman
+### 🗄️ Database
+MongoDB, MySQL
 
----
+### 🛠️ Tools
+Git, GitHub, VS Code, Postman, npm
+
+### 📐 Concepts
+Responsive Design, Component-Based Architecture, API Integration
+
+## 📚 Currently Learning
+- Next.js
 
 ## 💼 Featured Projects
 
